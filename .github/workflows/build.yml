@@ -5,7 +5,7 @@ on:
     branches:
     - 'integration'
     - 'feature/**'
-    - 'main'
+    - 'master'
     
 env:
   project_file: 'BlazorMonaco.sln'
